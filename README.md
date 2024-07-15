@@ -6,61 +6,61 @@ Scott Manifold <shm.qed@gmail.com>
 
 ## Table of Contents
 The current overview of the course should match up to the following structure.
-- 1. Introduction (In Progress)
-	- 1.1 Basic Git
-	- 1.2 Basic Compiling
-	- 1.3 Basic Make
-	- 1.4 Basic CMake
-	- 1.5 Coding Style
-- 2. Core C functionality (In Progress)
-	- 2.1 Datatypes and Arrays
-	- 2.2 Conditionals and Switches
-	- 2.3 Loop Control
-	- 2.4 Functions
-	- 2.5 Input/Output
-	- 2.6 Files and Reading/Writing
-	- 2.7 Pointers
-	- 2.8 Memory Management
-	- 2.9 Structs and Enums
-	- 2.10 Basic Testing and Error Handling
-- Part 1 Practicals (In Progress)
+1. Introduction (In Progress)
+	1.1 Basic Git
+	1.2 Basic Compiling
+	1.3 Basic Make
+	1.4 Basic CMake
+	1.5 Coding Style
+2. Core C functionality (In Progress)
+	2.1 Datatypes and Arrays
+	2.2 Conditionals and Switches
+	2.3 Loop Control
+	2.4 Functions
+	2.5 Input/Output
+	2.6 Files and Reading/Writing
+	2.7 Pointers
+	2.8 Memory Management
+	2.9 Structs and Enums
+	2.10 Basic Testing and Error Handling
+Part 1 Practicals (In Progress)
 	- Terminal ACFT Calculator
 	- Brute Force Passwords
-- 3. Introduction to Data Structures (In Progress)
-	- 3.1 Multidimensional Arrays
-	- 3.2 Stacks and Queues
-	- 3.3 Linked Lists
-	- 3.4 Trees
-	- 3.5 HashSets and HashMaps
-	- 3.5 Heaps
-- 4. Basic Algorithm Examples (In Progress)
-	- 4.1 Recursion
-	- 4.2 Searching
-	- 4.3 Spanning Trees and Networks
-	- 4.4 Bit Manipulation
-	- 4.5 Dynamic Programming
-- Part 2 Practicals (In Progress)
+3. Introduction to Data Structures (In Progress)
+	3.1 Multidimensional Arrays
+	3.2 Stacks and Queues
+	3.3 Linked Lists
+	3.4 Trees
+	3.5 HashSets and HashMaps
+	3.5 Heaps
+4. Basic Algorithm Examples (In Progress)
+	4.1 Recursion
+	4.2 Searching
+	4.3 Spanning Trees and Networks
+	4.4 Bit Manipulation
+	4.5 Dynamic Programming
+Part 2 Practicals (In Progress)
 	- Path Finding a Maze
 	- Building a LRU Cache
-- 5. More Advanced Concepts (In Progress)
-	- 5.1 Socket Programming
-	- 5.2 Asynchronous Programming
-	- 5.3 Threaded Programming with pthreads
-	- 5.4 Threaded Programming with C11 threads
-	- 5.5 Threaded Programming Considerations
-- 6. Programming Ecosystem (In Progress)
-	- 6.1 Regular Expressions
-	- 6.2 Debugging
-	- 6.3 Linters
-	- 6.4 Commenting and Documenting Code
-	- 6.5 Testing Code
-	- 6.6 Popular Linux Libraries
-	- 6.7 CMake (part 2)
-- Part 3 Practicals (In Progress)
+5. More Advanced Concepts (In Progress)
+	5.1 Socket Programming
+	5.2 Asynchronous Programming
+	5.3 Threaded Programming with pthreads
+	5.4 Threaded Programming with C11 threads
+	5.5 Threaded Programming Considerations
+6. Programming Ecosystem (In Progress)
+	6.1 Regular Expressions
+	6.2 Debugging
+	6.3 Linters
+	6.4 Commenting and Documenting Code
+	6.5 Testing Code
+	6.6 Popular Linux Libraries
+	6.7 CMake (part 2)
+Part 3 Practicals (In Progress)
 	- Threaded Web Server
 	- ???
-- Final Project (In Progress)
-- Side Modules (In Progress)
+Final Project (In Progress)
+Side Modules (In Progress)
 	- Basic SQL with SQLite
 	- Integration with Assembly
 	- Integration with C++
