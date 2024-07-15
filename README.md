@@ -7,11 +7,11 @@ Scott Manifold <shm.qed@gmail.com>
 ## Table of Contents
 The current overview of the course should match up to the following structure.
 1. Introduction (In Progress)
-	- Basic Git
-	- Basic Compiling
-	- Basic Make
- 	- Basic CMake
-   	- Coding Style
+    - Basic Git
+    - Basic Compiling
+    - Basic Make
+    - Basic CMake
+    - Coding Style
 2. Core C functionality (In Progress)
     - Datatypes and Arrays
     - Conditionals and Switches
@@ -23,32 +23,32 @@ The current overview of the course should match up to the following structure.
     - Memory Management
     - Structs and Enums
     - Basic Testing and Error Handling
-Part 1 Practicals (In Progress)
-	- Terminal ACFT Calculator
-	- Brute Force Passwords
-3. Introduction to Data Structures (In Progress)
-   	- Multidimensional Arrays
-   	- Stacks and Queues
-   	- Linked Lists
-   	- Trees
-   	- HashSets and HashMaps
-   	- Heaps
-4. Basic Algorithm Examples (In Progress)
+3. Part 1 Practicals (In Progress)
+    - Terminal ACFT Calculator
+    - Brute Force Passwords
+4. Introduction to Data Structures (In Progress)
+    - Multidimensional Arrays
+    - Stacks and Queues
+    - Linked Lists
+    - Trees
+    - HashSets and HashMaps
+    - Heaps
+5. Basic Algorithm Examples (In Progress)
     - Recursion
     - Searching
     - Spanning Trees and Networks
     - Bit Manipulation
     - Dynamic Programming
-Part 2 Practicals (In Progress)
-	- Path Finding a Maze
-	- Building a LRU Cache
-5. More Advanced Concepts (In Progress)
+6. Part 2 Practicals (In Progress)
+    - Path Finding a Maze
+    - Building a LRU Cache
+7. More Advanced Concepts (In Progress)
     - Socket Programming
     - Asynchronous Programming
     - Threaded Programming with pthreads
     - Threaded Programming with C11 threads
     - Threaded Programming Considerations
-6. Programming Ecosystem (In Progress)
+8. Programming Ecosystem (In Progress)
     - Regular Expressions
     - Debugging
     - Linters
@@ -56,16 +56,16 @@ Part 2 Practicals (In Progress)
     - Testing Code
     - Popular Linux Libraries
     - CMake (part 2)
-Part 3 Practicals (In Progress)
-	- Threaded Web Server
-	- ???
-Final Project (In Progress)
-Side Modules (In Progress)
-	- Basic SQL with SQLite
-	- Integration with Assembly
-	- Integration with C++
-	- Integration with Python
-	- Cross-Compiling
+9. Part 3 Practicals (In Progress)
+    - Threaded Web Server
+    - ???
+10. Final Project (In Progress)
+11. Side Modules (In Progress)
+    - Basic SQL with SQLite
+    - Integration with Assembly
+    - Integration with C++
+    - Integration with Python
+    - Cross-Compiling
 
 ## Prerequisites
 To get started with these lessons we need to set up a text editor, a compiler, and a build system. There is also an implicit assumption that these lessons are conducted using a Linux based system. That said, almost everything should carry over to other systems with little difficulty. 
